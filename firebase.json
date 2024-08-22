@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": "intern-seal",
+    "source": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
